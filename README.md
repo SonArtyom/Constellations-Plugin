@@ -1,14 +1,28 @@
-# Constellations
+<h1 align="center">Constellations</h1>
 
-**The night sky, inside After Effects.**
+<p align="center"><b>The night sky, inside After Effects.</b></p>
 
-Draw a constellation, build a star field or add a moving aurora. Constellations brings 88 real constellations and 5,045 stars into one effect, with controls for the look, animation and camera.
+<p align="center">
+  <a href="https://sensemv.gumroad.com/l/constellations"><img src="https://img.shields.io/badge/Buy%20on%20Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" alt="Buy on Gumroad"></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0-7EA1F1?style=flat-square" alt="Version 1.0">
+  <img src="https://img.shields.io/badge/After%20Effects-2024%2B-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" alt="After Effects 2024+">
+  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=flat-square" alt="Windows 10 | 11">
+  <img src="https://img.shields.io/badge/macOS-beta-lightgrey?style=flat-square&logo=apple" alt="macOS beta">
+</p>
 
 ![Constellations over a Milky Way sky](assets/constellations.png)
 
-**Version 1.0 · After Effects 2024+ · Windows · macOS beta**
+Draw a constellation, build a star field or add a moving aurora. Constellations brings 88 real constellations and 5,045 stars into one effect, with controls for the look, animation and camera.
 
-[Quick start](#quick-start) · [Report a bug](https://github.com/SonArtyom/Constellations-Plugin/issues)
+<p align="center">
+  <a href="https://sensemv.gumroad.com/l/constellations"><b>Get Constellations</b></a> ·
+  <a href="#quick-start">Quick start</a> ·
+  <a href="#compatibility">Compatibility</a> ·
+  <a href="https://github.com/SonArtyom/Constellations-Plugin/issues">Report a bug</a>
+</p>
 
 ## From a star map to an illustration
 
@@ -48,9 +62,15 @@ Add a Milky Way band, nebula clouds, a spiral galaxy or aurora curtains. Each ha
 
 The effect can follow the composition camera. Set different depths for the constellation, background stars, galaxy and aurora to get parallax as the camera moves. Keep the effect on a **2D solid**; it reads the camera itself.
 
+## Get it
+
+Constellations is sold on **[Gumroad](https://sensemv.gumroad.com/l/constellations)**. Your purchase includes the Windows installer, the macOS beta, the user guide (English and Japanese) and a licence key. All 1.x updates are free.
+
+Without an activated licence key the effect renders with a watermark. Activate it in **Effect Controls → Options**.
+
 ## Quick start
 
-1. Close After Effects and run the installer supplied with your purchase. Select your After Effects version, finish installation and restart After Effects.
+1. [Buy Constellations](https://sensemv.gumroad.com/l/constellations), close After Effects and run the installer from your download. Select your After Effects version, finish installation and restart After Effects.
 2. Create a solid the size of your composition.
 3. Apply **Effect → Sky → Constellations**. Orion appears on a transparent background.
 4. Pick a **Look Preset**, then choose your constellation.
@@ -64,7 +84,7 @@ Pick the preset before fine-tuning the style: changing presets replaces the star
 | --- | --- |
 | **After Effects** | 2024 or newer; tested on 24.5 and 26.3 |
 | **Windows** | Windows 10 or 11, 64-bit |
-| **macOS** | Beta: macOS 11+, Apple Silicon or Intel. Not yet tested in After Effects on Mac, according to the v1.0 guide. |
+| **macOS** | Beta: macOS 11+, Apple Silicon or Intel. Not yet tested in After Effects on a real Mac. |
 | **Colour depth** | 8, 16 and 32 bits per channel |
 | **Rendering** | CPU rendering, Multi-Frame Rendering; no GPU required |
 | **Output** | Transparent, original layer or solid colour |
@@ -77,7 +97,7 @@ The user guide included with the plug-in covers installation, presets, animation
 
 For bugs or feature requests, [open an issue](https://github.com/SonArtyom/Constellations-Plugin/issues). Include your plug-in version, After Effects version, operating system and steps to reproduce the problem. A screenshot of the effect settings helps. Keep licence keys, order details and private project files out of public reports.
 
-For purchase or download questions, contact support through the store where you bought the plug-in.
+For purchase, download or licence questions, contact support through [Gumroad](https://sensemv.gumroad.com/l/constellations).
 
 This repository contains the product overview, preview images and a quick start. Constellations is a commercial plug-in; its source code and installers are not distributed here.
 
