@@ -1,3 +1,5 @@
+<p align="center"><b>English</b> · <a href="README.ja.md">日本語</a></p>
+
 <h1 align="center">Constellations</h1>
 
 <p align="center"><b>The night sky, inside After Effects.</b></p>
